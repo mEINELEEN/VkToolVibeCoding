@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WukongBenchmark.WinForms": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
